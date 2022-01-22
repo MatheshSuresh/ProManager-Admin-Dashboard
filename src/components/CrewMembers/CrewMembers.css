@@ -1,0 +1,80 @@
+.crew{
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+
+.crew1{
+    flex: 0.5;
+    background-color: #f2bc9d;
+    height: 47vh;
+    padding: 20px;
+    width: 50%;
+    border-radius: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.crew2{
+    flex: 0.5;
+    background-color: #91c7e8;
+    height: 47vh;
+    padding: 20px;
+    width: 50%;
+    border-radius: 25px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+img{
+    height: 4rem;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+.crew1>span{
+    color: #906248
+}
+
+.crew2>span{
+    color: #437a9d
+}
+
+.team-members{
+    color: #a27258;
+    padding-top: 70%;
+    flex: 1;
+    font-size: 14px;
+}
+
+.progress1{
+    color: #a27258;
+    padding-top: 10px;
+}
+
+.progress-bar{
+    padding-top: 10px;
+}
+
+.css-eglki6-MuiLinearProgress-root{
+    height: 5px;
+    border-radius: 2px;
+}
+
+.css-5xe99f-MuiLinearProgress-bar1{
+    background-color: #c36338 !important;
+}
+
+.team-members2{
+    color: #3c7497;
+    padding-top: 70%;
+}
+
+.css-1ytufz-MuiAvatarGroup-root{
+    display: -webkit-box !important;
+}
+
+.progress-title{
+    font-size: 14px;
+}

@@ -1,0 +1,19 @@
+.dashboard{
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 3rem;
+}
+
+.todolist{
+    flex: 0.5;
+}
+
+.crewcard{
+    flex: 0.5;
+}
+
+.free_container{
+    width: 17%;
+}
