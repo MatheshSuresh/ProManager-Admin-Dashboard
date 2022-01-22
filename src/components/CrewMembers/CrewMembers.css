@@ -80,5 +80,5 @@ img{
 }
 
 .css-1mceequ{
-    flex-direction: row;
+    flex-direction: row !important;
 }
